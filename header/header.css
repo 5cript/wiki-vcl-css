@@ -1,24 +1,29 @@
 .header {
+	font-size: 14px;
 	font-weight: bold;
 }
 
 .header h2 {
-	font-size: 11px;
-	margin-top: 1em;
+	font-size: 12px;
+	font-weight: bold;
 }
 
 .header h3 {
-	font-size 1.2em;
+	font-size: 10px;
+	font-weight: bold;
 }
 
 .header h4 {
-	font-size: 100%;
+	font-size: 8px;
+	font-weight: bold;
 }
 
 .header h5 {
-	font-size: 100%;
+	font-size: 8px;
+	font-weight: bold;
 }
 
 .header h6 {
-	font-size: 100%;
+	font-size: 8px;
+	font-weight: bold;
 }
