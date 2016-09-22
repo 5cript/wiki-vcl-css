@@ -1,29 +1,28 @@
 .header {
-	font-size: 14px;
+	font-size: 130%;
 	font-weight: bold;
+	color: black;
+}
+
+.header h1 {
 }
 
 .header h2 {
-	font-size: 12px;
-	font-weight: bold;
+	font-size: 120%;
 }
 
 .header h3 {
-	font-size: 10px;
-	font-weight: bold;
+	font-size: 110%;
 }
 
 .header h4 {
-	font-size: 8px;
-	font-weight: bold;
+	font-size: 100%;
 }
 
 .header h5 {
-	font-size: 8px;
-	font-weight: bold;
+	font-size: 100%;
 }
 
 .header h6 {
-	font-size: 8px;
-	font-weight: bold;
+	font-size: 100%;
 }
