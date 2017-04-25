@@ -1,0 +1,14 @@
+.table {
+	border-color: #A2A9B1;	
+}
+
+.wikitable {
+	background-color: #F8F9FA;
+	color: black;
+	font-weight: normal;
+	
+	header-background-color: #FF00FF;
+	header-color: #EAECF0;
+	header-font-weight: bold;
+	header-font-size: 9
+}
