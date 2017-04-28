@@ -7,8 +7,8 @@
 	color: black;
 	font-weight: normal;
 	
-	header-background-color: #FF00FF;
-	header-color: #EAECF0;
+	header-background-color: #EAECF0;
+	header-color: black;
 	header-font-weight: bold;
-	header-font-size: 9
+	header-font-size: 9;
 }
